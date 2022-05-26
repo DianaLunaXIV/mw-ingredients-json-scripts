@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Adamantium Ore",
+    "id": "ingred_adamantium_ore_01",
+    "image": "https://images.uesp.net/0/06/TR-icon-ingredient-Adamantium_Ore.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Adamantium_Ore",
+    "description": "Found in Raw Adamantium Rocks. The best use of Adamantium Ore is making Adamantium Armor rather than creating potions.",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Burden.jpg/16px-MW-icon-effect-Burden.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Burden",
+        "effectName": "Burden"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+        "effectName": "Restore Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d0/MW-icon-effect-Poison.jpg/16px-MW-icon-effect-Poison.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Poison",
+        "effectName": "Poison"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e3/MW-icon-effect-Reflect.jpg/16px-MW-icon-effect-Reflect.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Reflect",
+        "effectName": "Reflect"
+      }
+    ],
+    "value": "300",
+    "weight": "50.0",
+    "harvestProbability": "60"
+  },
+  {
+    "name": "Durzog Meat",
+    "id": "ingred_durzog_meat_01",
+    "image": "https://images.uesp.net/7/78/TR-icon-ingredient-Durzog_Meat.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Durzog_Meat",
+    "description": "Found by killing Durzogs",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Agility",
+        "effectName": "Fortify Agility"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Strength",
+        "effectName": "Fortify Strength"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/b/b1/MW-icon-effect-Blind.jpg/16px-MW-icon-effect-Blind.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Blind",
+        "effectName": "Blind"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d5/MW-icon-effect-Damage_Magicka.jpg/16px-MW-icon-effect-Damage_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Magicka",
+        "effectName": "Damage Magicka"
+      }
+    ],
+    "value": "7",
+    "weight": "2.0",
+    "harvestProbability": "100"
+  },
+  {
+    "name": "Golden Sedge Flowers",
+    "id": "ingred_golden_sedge_01",
+    "image": "https://images.uesp.net/5/57/TR-icon-ingredient-Golden_Sedge.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Golden_Sedge_Flowers",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+        "effectName": "Fortify Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/4/4d/MW-icon-effect-Fortify_Attack.jpg/16px-MW-icon-effect-Fortify_Attack.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attack",
+        "effectName": "Fortify Attack"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/f/f5/MW-icon-effect-Swift_Swim.jpg/16px-MW-icon-effect-Swift_Swim.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Swift_Swim",
+        "effectName": "Swift Swim"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70"
+  },
+  {
+    "name": "Horn Lily Bulb",
+    "id": "ingred_horn_lily_bulb_01",
+    "image": "https://images.uesp.net/6/6b/TR-icon-ingredient-Horn_Lily_Bulb.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Horn_Lily_Bulb",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c9/MW-icon-effect-Resist_Paralysis.jpg/16px-MW-icon-effect-Resist_Paralysis.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Paralysis",
+        "effectName": "Resist Paralysis"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+        "effectName": "Drain Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  },
+  {
+    "name": "Lloramor Spines",
+    "id": "ingred_lloramor_spines_01",
+    "image": "https://images.uesp.net/a/a2/TR-icon-ingredient-Lloramor_Spines.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Lloramor_Spines",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/81/MW-icon-effect-Spell_Absorption.jpg/16px-MW-icon-effect-Spell_Absorption.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Spell_Absorption",
+        "effectName": "Spell Absorption"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/80/MW-icon-effect-Invisibility.jpg/16px-MW-icon-effect-Invisibility.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Invisibility",
+        "effectName": "Invisibility"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d0/MW-icon-effect-Poison.jpg/16px-MW-icon-effect-Poison.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Poison",
+        "effectName": "Poison"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/b/b9/MW-icon-effect-Detect_Enchantment.jpg/16px-MW-icon-effect-Detect_Enchantment.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Enchantment",
+        "effectName": "Detect Enchantment"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  },
+  {
+    "name": "Meadow Rye",
+    "id": "ingred_meadow_rye_01",
+    "image": "https://images.uesp.net/3/39/TR-icon-ingredient-Meadow_Rye.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Meadow_Rye",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+        "effectName": "Fortify Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/7/78/MW-icon-effect-Damage_Health.jpg/16px-MW-icon-effect-Damage_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Health",
+        "effectName": "Damage Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+        "effectName": "Drain Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "100x2"
+  },
+  {
+    "name": "Nirthfly Stalks",
+    "id": "ingred_nirthfly_stalks_01",
+    "image": "https://images.uesp.net/2/2f/TR-icon-ingredient-Nirthfly_Stalks.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Nirthfly_Stalks",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/7/78/MW-icon-effect-Damage_Health.jpg/16px-MW-icon-effect-Damage_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Health",
+        "effectName": "Damage Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+        "effectName": "Fortify Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+        "effectName": "Drain Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  },
+  {
+    "name": "Noble Sedge Flowers",
+    "id": "ingred_noble_sedge_01",
+    "image": "https://images.uesp.net/e/e5/TR-icon-ingredient-Noble_Sedge.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Noble_Sedge_Flowers",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/7/78/MW-icon-effect-Damage_Health.jpg/16px-MW-icon-effect-Damage_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Health",
+        "effectName": "Damage Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d0/MW-icon-effect-Poison.jpg/16px-MW-icon-effect-Poison.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Poison",
+        "effectName": "Poison"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+        "effectName": "Fortify Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70"
+  },
+  {
+    "name": "Scrib Cabbage",
+    "id": "ingred_scrib_cabbage_01",
+    "image": "https://images.uesp.net/e/e7/TR-icon-ingredient-Scrib_Cabbage.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Scrib_Cabbage",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+        "effectName": "Drain Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/7/78/MW-icon-effect-Damage_Health.jpg/16px-MW-icon-effect-Damage_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Health",
+        "effectName": "Damage Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+        "effectName": "Fortify Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  },
+  {
+    "name": "Sweetpulp",
+    "id": "ingred_sweetpulp_01",
+    "image": "https://images.uesp.net/1/18/TR-icon-ingredient-Sweetpulp.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Sweetpulp",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+        "effectName": "Paralyze"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Levitate.jpg/16px-MW-icon-effect-Levitate.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Levitate",
+        "effectName": "Levitate"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c9/MW-icon-effect-Resist_Paralysis.jpg/16px-MW-icon-effect-Resist_Paralysis.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Paralysis",
+        "effectName": "Resist Paralysis"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+        "effectName": "Restore Health"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  },
+  {
+    "name": "Timsa-Come-By flowers",
+    "id": "ingred_timsa-come-by_01",
+    "image": "https://images.uesp.net/6/6d/TR-icon-ingredient-Timsa-Come-By_Flowers.png",
+    "url": "https://en.uesp.net/wiki/Tribunal:Timsa-Come-By_flowers",
+    "description": "Found in planters throughout Mournhold",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/50/MW-icon-effect-Dispel.jpg/16px-MW-icon-effect-Dispel.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Dispel",
+        "effectName": "Dispel"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c9/MW-icon-effect-Resist_Paralysis.jpg/16px-MW-icon-effect-Resist_Paralysis.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Paralysis",
+        "effectName": "Resist Paralysis"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      }
+    ],
+    "value": "1",
+    "weight": "1.0",
+    "harvestProbability": "70x2"
+  }
+]

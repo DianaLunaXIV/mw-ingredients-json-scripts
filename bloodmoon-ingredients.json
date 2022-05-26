@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bear Pelt",
+    "id": "ingred_bear_pelt",
+    "image": "https://images.uesp.net/7/7c/BM-icon-ingredient-Bear_Pelt.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Bear_Pelt",
+    "description": "Found by killing Bears",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+        "effectName": "Drain Fatigue"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Strength",
+        "effectName": "Fortify Strength"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+        "effectName": "Resist Common Disease"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+        "effectName": "Night Eye"
+      }
+    ],
+    "value": "2",
+    "weight": "1.0",
+    "harvestProbability": "80"
+  },
+  {
+    "name": "Bristleback Leather",
+    "id": "ingred_boar_leather",
+    "image": "https://images.uesp.net/b/b6/BM-icon-ingredient-Bristleback_Leather.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Bristleback_Leather",
+    "description": "Found by killing Bristlebacks (with or without riders)",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/b/b1/MW-icon-effect-Blind.jpg/16px-MW-icon-effect-Blind.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Blind",
+        "effectName": "Blind"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Frost_Damage.jpg/16px-MW-icon-effect-Frost_Damage.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Damage",
+        "effectName": "Frost Damage"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+        "effectName": "Resist Frost"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/05/MW-icon-effect-Recall.jpg/16px-MW-icon-effect-Recall.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Recall",
+        "effectName": "Recall"
+      }
+    ],
+    "value": "2",
+    "weight": "1.0",
+    "harvestProbability": "60"
+  },
+  {
+    "name": "Grahl Eyeball",
+    "id": "ingred_eyeball",
+    "image": "https://images.uesp.net/d/da/BM-icon-ingredient-Grahl_Eyeball.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Grahl_Eyeball",
+    "description": "Found by killing Grahls",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+        "effectName": "Resist Frost"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+        "effectName": "Night Eye"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Strength",
+        "effectName": "Fortify Strength"
+      }
+    ],
+    "value": "15",
+    "weight": "1.0",
+    "harvestProbability": "100"
+  },
+  {
+    "name": "Gravetar",
+    "id": "ingred_gravetar_01",
+    "image": "https://images.uesp.net/f/f9/BM-icon-ingredient-Gravetar.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Gravetar",
+    "description": "Found by killing Draugr",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+        "effectName": "Resist Frost"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+        "effectName": "Drain Health"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/03/MW-icon-effect-Fortify_Fatigue.jpg/16px-MW-icon-effect-Fortify_Fatigue.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Fatigue",
+        "effectName": "Fortify Fatigue"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Luck",
+        "effectName": "Drain Luck"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "60"
+  },
+  {
+    "name": "Heartwood",
+    "id": "ingred_heartwood_01",
+    "image": "https://images.uesp.net/f/f7/BM-icon-ingredient-Heartwood.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Heartwood",
+    "description": "Occasionally found by killing Spriggans",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+        "effectName": "Restore Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Agility",
+        "effectName": "Fortify Agility"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Strength",
+        "effectName": "Drain Strength"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/1/15/MW-icon-effect-Weakness_to_Fire.jpg/16px-MW-icon-effect-Weakness_to_Fire.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Weakness_to_Fire",
+        "effectName": "Weakness to Fire"
+      }
+    ],
+    "value": "200",
+    "weight": "1.0",
+    "harvestProbability": "48*"
+  },
+  {
+    "name": "Holly Berries",
+    "id": "ingred_holly_01",
+    "image": "https://images.uesp.net/4/45/BM-icon-ingredient-Holly_Berries.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Holly_Berries",
+    "description": "Grows all over Solstheim",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+        "effectName": "Resist Frost"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/6/6e/MW-icon-effect-Frost_Shield.jpg/16px-MW-icon-effect-Frost_Shield.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Shield",
+        "effectName": "Frost Shield"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Frost_Damage.jpg/16px-MW-icon-effect-Frost_Damage.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Damage",
+        "effectName": "Frost Damage"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/1/15/MW-icon-effect-Weakness_to_Fire.jpg/16px-MW-icon-effect-Weakness_to_Fire.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Weakness_to_Fire",
+        "effectName": "Weakness to Fire"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "90"
+  },
+  {
+    "name": "Horker Tusk",
+    "id": "ingred_horker_tusk_01",
+    "image": "https://images.uesp.net/2/2d/BM-icon-ingredient-Horker_Tusk.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Horker_Tusk",
+    "description": "Found by killing Horkers",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/ee/MW-icon-effect-Drain_Skill.jpg/16px-MW-icon-effect-Drain_Skill.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Skill",
+        "effectName": "Drain Skill"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Intelligence",
+        "effectName": "Fortify Intelligence"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/02/MW-icon-effect-Fortify_Maximum_Magicka.jpg/16px-MW-icon-effect-Fortify_Maximum_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Maximum_Magicka",
+        "effectName": "Fortify Maximum Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Animal",
+        "effectName": "Detect Animal"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "60"
+  },
+  {
+    "name": "Raw Stalhrim",
+    "id": "ingred_raw_Stalhrim_01",
+    "image": "https://images.uesp.net/6/68/BM-icon-ingredient-Raw_Stalhrim.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Raw_Stalhrim",
+    "description": "Found in barrows. Ancient Stalhrim Pickaxe required.",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+        "effectName": "Resist Frost"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Frost_Damage.jpg/16px-MW-icon-effect-Frost_Damage.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Damage",
+        "effectName": "Frost Damage"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+        "effectName": "Paralyze"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+        "effectName": "Restore Health"
+      }
+    ],
+    "value": "300",
+    "weight": "5.0",
+    "harvestProbability": "100"
+  },
+  {
+    "name": "Ripened Belladonna Berries",
+    "id": "ingred_belladonna_01, ingred_belladonna_02",
+    "image": "https://images.uesp.net/7/76/BM-icon-ingredient-Belladonna_Berries.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Ripened_Belladonna_Berries",
+    "description": "Somewhat less common than the unripe variety, but still relatively widespread.",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/84/MW-icon-effect-Resist_Magicka.jpg/16px-MW-icon-effect-Resist_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Magicka",
+        "effectName": "Resist Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+        "effectName": "Restore Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/6/6c/MW-icon-effect-Fortify_Magicka.jpg/16px-MW-icon-effect-Fortify_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Magicka",
+        "effectName": "Fortify Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "100/80/60x3 "
+  },
+  {
+    "name": "Snow Bear Pelt",
+    "id": "ingred_snowbear_pelt_unique",
+    "image": "https://images.uesp.net/2/2a/BM-icon-ingredient-Snow_Bear_Pelt.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Snow_Bear_Pelt",
+    "description": "Found by killing Snow Bears",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+        "effectName": "Drain Fatigue"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Speed",
+        "effectName": "Fortify Speed"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+        "effectName": "Resist Common Disease"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+        "effectName": "Night Eye"
+      }
+    ],
+    "value": "2",
+    "weight": "1.0",
+    "harvestProbability": "100"
+  },
+  {
+    "name": "Snow Wolf Pelt",
+    "id": "ingred_snowwolf_pelt_unique",
+    "image": "https://images.uesp.net/8/81/BM-icon-ingredient-Snow_Wolf_Pelt.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Snow_Wolf_Pelt",
+    "description": "Found by killing Snow Wolves",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+        "effectName": "Drain Fatigue"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Speed",
+        "effectName": "Fortify Speed"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+        "effectName": "Resist Common Disease"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+        "effectName": "Night Eye"
+      }
+    ],
+    "value": "2",
+    "weight": "1.0",
+    "harvestProbability": "100"
+  },
+  {
+    "name": "Unripened Belladonna Berries",
+    "id": "ingred_belladonna_01, ingred_belladonna_02",
+    "image": "https://images.uesp.net/7/76/BM-icon-ingredient-Belladonna_Berries.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Unripened_Belladonna_Berries",
+    "description": "Grows all over Solstheim.Common at barrow entrances.",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/84/MW-icon-effect-Resist_Magicka.jpg/16px-MW-icon-effect-Resist_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Magicka",
+        "effectName": "Resist Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+        "effectName": "Restore Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/6/6c/MW-icon-effect-Fortify_Magicka.jpg/16px-MW-icon-effect-Fortify_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Magicka",
+        "effectName": "Fortify Magicka"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "100/80/60x3 "
+  },
+  {
+    "name": "Wolf Pelt",
+    "id": "ingred_wolf_pelt",
+    "image": "https://images.uesp.net/1/1d/BM-icon-ingredient-Wolf_Pelt.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Wolf_Pelt",
+    "description": "Found by killing Wolves",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+        "effectName": "Drain Fatigue"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Speed",
+        "effectName": "Fortify Speed"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+        "effectName": "Resist Common Disease"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+        "effectName": "Night Eye"
+      }
+    ],
+    "value": "2",
+    "weight": "1.0",
+    "harvestProbability": "80"
+  },
+  {
+    "name": "Wolfsbane Petals",
+    "id": "ingred_wolfsbane_01",
+    "image": "https://images.uesp.net/3/3b/BM-icon-ingredient-Wolfsbane_Petals.png",
+    "url": "https://en.uesp.net/wiki/Bloodmoon:Wolfsbane_Petals",
+    "description": "Grows on Hvitkald Peak. One found in Lassnr's shack in the Skaal village.",
+    "effects": [
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+        "effectName": "Restore Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/8/80/MW-icon-effect-Invisibility.jpg/16px-MW-icon-effect-Invisibility.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Invisibility",
+        "effectName": "Invisibility"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+        "effectName": "Drain Attribute"
+      },
+      {
+        "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+        "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+        "effectName": "Drain Magicka"
+      }
+    ],
+    "value": "5",
+    "weight": "0.1",
+    "harvestProbability": "100"
+  }
+]

@@ -1,0 +1,2251 @@
+[
+    {
+        "name": "Alit Hide",
+        "id": "ingred_alit_hide_01",
+        "image": "https://images.uesp.net/8/82/MW-icon-ingredient-Alit_Hide.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Alit_Hide",
+        "description": "Found by killing Alits",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/ea/MW-icon-effect-Resist_Poison.jpg/16px-MW-icon-effect-Resist_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Poison",
+                "effectName": "Resist Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/74/MW-icon-effect-Telekinesis.jpg/16px-MW-icon-effect-Telekinesis.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Telekinesis",
+                "effectName": "Telekinesis"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Animal",
+                "effectName": "Detect Animal"
+            }
+        ],
+        "value": "5",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Ampoule Pod",
+        "id": "ingred_bc_ampoule_pod",
+        "image": "https://images.uesp.net/2/20/MW-icon-ingredient-Ampoule_Pod.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ampoule_Pod",
+        "description": "Common growing in swamps in the Bitter Coast region; one of two possible outputs of the draggle-tail plant (the other is the Coda Flower)",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/da/MW-icon-effect-Water_Walking.jpg/16px-MW-icon-effect-Water_Walking.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Walking",
+                "effectName": "Water Walking"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Animal",
+                "effectName": "Detect Animal"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Ash Salts",
+        "id": "ingred_ash_salts_01",
+        "image": "https://images.uesp.net/6/6e/MW-icon-ingredient-Ash_Salts.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ash_Salts",
+        "description": "Found by killing Ash creatures",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/84/MW-icon-effect-Resist_Magicka.jpg/16px-MW-icon-effect-Resist_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Magicka",
+                "effectName": "Resist Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a3/MW-icon-effect-Cure_Blight_Disease.jpg/16px-MW-icon-effect-Cure_Blight_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Blight_Disease",
+                "effectName": "Cure Blight Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/84/MW-icon-effect-Resist_Magicka.jpg/16px-MW-icon-effect-Resist_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Magicka",
+                "effectName": "Resist Magicka"
+            }
+        ],
+        "value": "25",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Ash Yam",
+        "id": "ingred_ash_yam_01",
+        "image": "https://images.uesp.net/a/a0/MW-icon-ingredient-Ash_Yam.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ash_Yam",
+        "description": "Most common in farm areas, occasionally found in the wild",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+                "effectName": "Resist Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b7/MW-icon-effect-Detect_Key.jpg/16px-MW-icon-effect-Detect_Key.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Key",
+                "effectName": "Detect Key"
+            }
+        ],
+        "value": "1",
+        "weight": "0.5",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Bittergreen Petals",
+        "id": "ingred_bittergreen_petals_01",
+        "image": "https://images.uesp.net/e/e3/MW-icon-ingredient-Bittergreen_Petal.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Bittergreen_Petals",
+        "description": "Grows on thorny vines in drier regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/80/MW-icon-effect-Invisibility.jpg/16px-MW-icon-effect-Invisibility.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Invisibility",
+                "effectName": "Invisibility"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            }
+        ],
+        "value": "5",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Black Anther",
+        "id": "ingred_black_anther_01",
+        "image": "https://images.uesp.net/8/82/MW-icon-ingredient-Black_Anther.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Black_Anther",
+        "description": "These flowers are most common in the Ascadian Isles region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/04/MW-icon-effect-Resist_Fire.jpg/16px-MW-icon-effect-Resist_Fire.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Fire",
+                "effectName": "Resist Fire"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/0f/MW-icon-effect-Light.jpg/16px-MW-icon-effect-Light.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Light",
+                "effectName": "Light"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Black Lichen",
+        "id": "ingred_black_lichen_01",
+        "image": "https://images.uesp.net/4/42/MW-icon-ingredient-Black_Lichen.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Black_Lichen",
+        "description": "Somewhat rare, mostly found in caves",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+                "effectName": "Resist Frost"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "70"
+    },
+    {
+        "name": "Bloat",
+        "id": "ingred_bloat_01",
+        "image": "https://images.uesp.net/6/6e/MW-icon-ingredient-Ash_Salts.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Bloat",
+        "description": "Grows in Bloat Spores, which are unfortunately not found anywhere in the game. The only examples you can find are in random containers, or sold by vendors.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Animal",
+                "effectName": "Detect Animal"
+            }
+        ],
+        "value": "5",
+        "weight": "0.1",
+        "harvestProbability": "100"
+    },
+    {
+        "name": "Bonemeal",
+        "id": "ingred_bonemeal_01",
+        "image": "https://images.uesp.net/1/1a/MW-icon-ingredient-Bonemeal.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Bonemeal",
+        "description": "Found on skeletons (living or dead), and also in urns in most tombs.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/74/MW-icon-effect-Telekinesis.jpg/16px-MW-icon-effect-Telekinesis.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Telekinesis",
+                "effectName": "Telekinesis"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "2",
+        "weight": "0.2",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Bread",
+        "id": "ingred_bread_01",
+        "image": "https://images.uesp.net/a/a4/MW-icon-ingredient-Bread.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Bread",
+        "description": "Found in most taverns and many houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            }
+        ],
+        "value": "1",
+        "weight": "0.2",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Bungler's Bane",
+        "id": "ingred_bc_bungler's_bane",
+        "image": "https://images.uesp.net/6/60/MW-icon-ingredient-Bungler%27s_Bane.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Bungler%27s_Bane",
+        "description": "This shelf-fungus grows on tree trunks in the Bitter Coast region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/50/MW-icon-effect-Dispel.jpg/16px-MW-icon-effect-Dispel.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Dispel",
+                "effectName": "Dispel"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.5",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Chokeweed",
+        "id": "ingred_chokeweed_01",
+        "image": "https://images.uesp.net/5/57/MW-icon-ingredient-Chokeweed.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Chokeweed",
+        "description": "Found growing in drier regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Coda Flower",
+        "id": "ingred_bc_coda_flower",
+        "image": "https://images.uesp.net/a/ac/MW-icon-ingredient-Coda_Flower.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Coda_Flower",
+        "description": "Found growing in swampy pools in the Bitter Coast region on the draggle-tail plant",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Levitate.jpg/16px-MW-icon-effect-Levitate.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Levitate",
+                "effectName": "Levitate"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            }
+        ],
+        "value": "23",
+        "weight": "0.1",
+        "harvestProbability": "75"
+    },
+    {
+        "name": "Comberry",
+        "id": "ingred_comberry_01",
+        "image": "https://images.uesp.net/5/50/MW-icon-ingredient-Comberry.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Comberry",
+        "description": "Grows in shrubs in the West Gash and Ascadian Isles regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+                "effectName": "Restore Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4e/MW-icon-effect-Fire_Shield.jpg/16px-MW-icon-effect-Fire_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fire_Shield",
+                "effectName": "Fire Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e3/MW-icon-effect-Reflect.jpg/16px-MW-icon-effect-Reflect.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Reflect",
+                "effectName": "Reflect"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Corkbulb Root",
+        "id": "ingred_corkbulb_root_01",
+        "image": "https://images.uesp.net/6/64/MW-icon-ingredient-Corkbulb_Root.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Corkbulb_Root",
+        "description": "Mostly found in drier regions in the wild.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4b/MW-icon-effect-Cure_Paralyzation.jpg/16px-MW-icon-effect-Cure_Paralyzation.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Paralyzation",
+                "effectName": "Cure Paralyzation"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2c/MW-icon-effect-Lightning_Shield.jpg/16px-MW-icon-effect-Lightning_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Lightning_Shield",
+                "effectName": "Lightning Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            }
+        ],
+        "value": "5",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Corprus Weepings",
+        "id": "ingred_corprus_weepings_01",
+        "image": "https://images.uesp.net/9/92/MW-icon-ingredient-Corprus_Weepings.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Corprus_Weepings",
+        "description": "Found by killing Corprus Stalkers",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            }
+        ],
+        "value": "50",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Crab Meat",
+        "id": "ingred_crab_meat_01",
+        "image": "https://images.uesp.net/3/37/MW-icon-ingredient-Crab_Meat.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Crab_Meat",
+        "description": "Found by killing Mudcrabs",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Resist_Shock.jpg/16px-MW-icon-effect-Resist_Shock.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Shock",
+                "effectName": "Resist Shock"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2c/MW-icon-effect-Lightning_Shield.jpg/16px-MW-icon-effect-Lightning_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Lightning_Shield",
+                "effectName": "Lightning Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.5",
+        "harvestProbability": "60x2"
+    },
+    {
+        "name": "Daedra Skin",
+        "id": "ingred_daedra_skin_01",
+        "image": "https://images.uesp.net/1/12/MW-icon-ingredient-Daedra_Skin.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Daedra_Skin",
+        "description": "Somewhat rare, mostly found at vendors",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f5/MW-icon-effect-Swift_Swim.jpg/16px-MW-icon-effect-Swift_Swim.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Swift_Swim",
+                "effectName": "Swift Swim"
+            }
+        ],
+        "value": "200",
+        "weight": "0.2",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Daedra's Heart",
+        "id": "ingred_daedras_heart_01",
+        "image": "https://images.uesp.net/7/7a/MW-icon-ingredient-Daedra%27s_Heart.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Daedra%27s_Heart",
+        "description": "Found by killing most Daedra - Dremora, Ogrim, Clannfears, Daedroth, etc.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+                "effectName": "Restore Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+                "effectName": "Night Eye"
+            }
+        ],
+        "value": "200",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Diamond",
+        "id": "ingred_diamond_01",
+        "image": "https://images.uesp.net/a/a5/MW-icon-ingredient-Diamond.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Diamond",
+        "description": "Common in barrels in Dwemer ruins. Also found in a small number of caves",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/80/MW-icon-effect-Invisibility.jpg/16px-MW-icon-effect-Invisibility.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Invisibility",
+                "effectName": "Invisibility"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e3/MW-icon-effect-Reflect.jpg/16px-MW-icon-effect-Reflect.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Reflect",
+                "effectName": "Reflect"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b7/MW-icon-effect-Detect_Key.jpg/16px-MW-icon-effect-Detect_Key.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Key",
+                "effectName": "Detect Key"
+            }
+        ],
+        "value": "250",
+        "weight": "0.2",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Dreugh Wax",
+        "id": "ingred_dreugh_wax_01",
+        "image": "https://images.uesp.net/c/c5/MW-icon-ingredient-Dreugh_Wax.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Dreugh_Wax",
+        "description": "Found by killing Dreugh",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "100",
+        "weight": "0.2",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Ectoplasm",
+        "id": "ingred_ectoplasm_01",
+        "image": "https://images.uesp.net/7/77/MW-icon-ingredient-Ectoplasm.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ectoplasm",
+        "description": "Found by killing Ghosts",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Animal",
+                "effectName": "Detect Animal"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Emerald",
+        "id": "ingred_emerald_01",
+        "image": "https://images.uesp.net/1/1d/MW-icon-ingredient-Emerald.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Emerald",
+        "description": "Common in barrels in Dwemer ruins",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6c/MW-icon-effect-Fortify_Magicka.jpg/16px-MW-icon-effect-Fortify_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Magicka",
+                "effectName": "Fortify Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "150",
+        "weight": "0.2",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Fire Petal",
+        "id": "ingred_fire_petal_01",
+        "image": "https://images.uesp.net/4/42/MW-icon-ingredient-Fire_Petal.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Fire_Petal",
+        "description": "Found growing in the Molag Amur, Ashlands, and Red Mountain regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/04/MW-icon-effect-Resist_Fire.jpg/16px-MW-icon-effect-Resist_Fire.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Fire",
+                "effectName": "Resist Fire"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/81/MW-icon-effect-Spell_Absorption.jpg/16px-MW-icon-effect-Spell_Absorption.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Spell_Absorption",
+                "effectName": "Spell Absorption"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Fire Salts",
+        "id": "ingred_fire_salts_01",
+        "image": "https://images.uesp.net/a/a0/MW-icon-ingredient-Fire_Salts.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Fire_Salts",
+        "description": "Found by killing Flame Atronachs",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Resist_Frost.jpg/16px-MW-icon-effect-Resist_Frost.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Frost",
+                "effectName": "Resist Frost"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4e/MW-icon-effect-Fire_Shield.jpg/16px-MW-icon-effect-Fire_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fire_Shield",
+                "effectName": "Fire Shield"
+            }
+        ],
+        "value": "100",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Frost Salts",
+        "id": "ingred_frost_salts_01",
+        "image": "https://images.uesp.net/2/2b/MW-icon-ingredient-Frost_Salts.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Frost_Salts",
+        "description": "Found by killing Frost Atronachs",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+                "effectName": "Restore Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6e/MW-icon-effect-Frost_Shield.jpg/16px-MW-icon-effect-Frost_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Shield",
+                "effectName": "Frost Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/04/MW-icon-effect-Resist_Fire.jpg/16px-MW-icon-effect-Resist_Fire.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Fire",
+                "effectName": "Resist Fire"
+            }
+        ],
+        "value": "75",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Ghoul Heart",
+        "id": "ingred_ghoul_heart_01",
+        "image": "https://images.uesp.net/e/ea/MW-icon-ingredient-Ghoul_Heart.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ghoul_Heart",
+        "description": "Supposedly the heart tissue of an Ash Ghoul, but not found on them. Mostly in random ingredient containers and sold at vendors.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4d/MW-icon-effect-Fortify_Attack.jpg/16px-MW-icon-effect-Fortify_Attack.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attack",
+                "effectName": "Fortify Attack"
+            }
+        ],
+        "value": "150",
+        "weight": "0.5",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Gold Kanet",
+        "id": "ingred_gold_kanet_01",
+        "image": "https://images.uesp.net/6/6f/MW-icon-ingredient-Gold_Kanet.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Gold_Kanet",
+        "description": "Found growing in bushes in the grassy regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Burden.jpg/16px-MW-icon-effect-Burden.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Burden",
+                "effectName": "Burden"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "5",
+        "weight": "0.1",
+        "harvestProbability": "80*"
+    },
+    {
+        "name": "Gravedust",
+        "id": "ingred_gravedust_01",
+        "image": "https://images.uesp.net/a/a9/MW-icon-ingredient-Gravedust.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Gravedust",
+        "description": "No reliable location. Occasionally for sale at vendors or found in random containers",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Green Lichen",
+        "id": "ingred_green_lichen_01",
+        "image": "https://images.uesp.net/e/e5/MW-icon-ingredient-Green_Lichen.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Green_Lichen",
+        "description": "Mostly grows on rocks in caves",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Guar Hide",
+        "id": "ingred_guar_hide_01",
+        "image": "https://images.uesp.net/b/b4/MW-icon-ingredient-Guar_Hide.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Guar_Hide",
+        "description": "Found by killing Guars",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            }
+        ],
+        "value": "5",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Hackle-Lo Leaf",
+        "id": "ingred_hackle-lo_leaf_01",
+        "image": "https://images.uesp.net/d/d3/MW-icon-ingredient-Hackle-Lo_Leaf.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Hackle-Lo_Leaf",
+        "description": "Found as food in most houses; grows wild in the Azura's Coast region.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b0/MW-icon-effect-Water_Breathing.jpg/16px-MW-icon-effect-Water_Breathing.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Breathing",
+                "effectName": "Water Breathing"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "30",
+        "weight": "0.1",
+        "harvestProbability": "75"
+    },
+    {
+        "name": "Heather",
+        "id": "ingred_heather_01",
+        "image": "https://images.uesp.net/7/78/MW-icon-ingredient-Heather.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Heather",
+        "description": "This common flower grows throughout the greener regions of Vvardenfell.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f8/MW-icon-effect-Feather.jpg/16px-MW-icon-effect-Feather.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Feather",
+                "effectName": "Feather"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Hound Meat",
+        "id": "ingred_hound_meat_01",
+        "image": "https://images.uesp.net/b/b2/MW-icon-ingredient-Hound_Meat.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Hound_Meat",
+        "description": "Found by killing Nix-Hounds",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/03/MW-icon-effect-Fortify_Fatigue.jpg/16px-MW-icon-effect-Fortify_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Fatigue",
+                "effectName": "Fortify Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e3/MW-icon-effect-Reflect.jpg/16px-MW-icon-effect-Reflect.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Reflect",
+                "effectName": "Reflect"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b9/MW-icon-effect-Detect_Enchantment.jpg/16px-MW-icon-effect-Detect_Enchantment.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Enchantment",
+                "effectName": "Detect Enchantment"
+            }
+        ],
+        "value": "2",
+        "weight": "1.0",
+        "harvestProbability": "100*"
+    },
+    {
+        "name": "Hypha Facia",
+        "id": "ingred_bc_hypha_facia",
+        "image": "https://images.uesp.net/e/e5/MW-icon-ingredient-Hypha_Facia.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Hypha_Facia",
+        "description": "This shelf-fungus is found growing on tree trunks in the Bitter Coast region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b9/MW-icon-effect-Detect_Enchantment.jpg/16px-MW-icon-effect-Detect_Enchantment.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Enchantment",
+                "effectName": "Detect Enchantment"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Kagouti Hide",
+        "id": "ingred_kagouti_hide_01",
+        "image": "https://images.uesp.net/f/f7/MW-icon-ingredient-Kagouti_Hide.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Kagouti_Hide",
+        "description": "Found by killing Kagoutis",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+                "effectName": "Resist Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/3/3a/MW-icon-effect-Night_Eye.jpg/16px-MW-icon-effect-Night_Eye.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Night_Eye",
+                "effectName": "Night Eye"
+            }
+        ],
+        "value": "2",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Kresh Fiber",
+        "id": "ingred_kresh_fiber_01",
+        "image": "https://images.uesp.net/c/c0/MW-icon-ingredient-Kresh_Fiber.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Kresh_Fiber",
+        "description": "Kreshweed is found growing near sea water, most common in the Azura's Coast, Bitter Coast and West Gash regions.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Kwama Cuttle",
+        "id": "ingred_kwama_cuttle_01",
+        "image": "https://images.uesp.net/b/b4/MW-icon-ingredient-Kwama_Cuttle.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Kwama_Cuttle",
+        "description": "Found by killing Kwama (any type).",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/ea/MW-icon-effect-Resist_Poison.jpg/16px-MW-icon-effect-Resist_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Poison",
+                "effectName": "Resist Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/da/MW-icon-effect-Water_Walking.jpg/16px-MW-icon-effect-Water_Walking.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Walking",
+                "effectName": "Water Walking"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b0/MW-icon-effect-Water_Breathing.jpg/16px-MW-icon-effect-Water_Breathing.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Breathing",
+                "effectName": "Water Breathing"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Large Kwama Egg",
+        "id": "food_kwama_egg_02",
+        "image": "https://images.uesp.net/7/73/MW-icon-ingredient-Kwama_Egg.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Large_Kwama_Egg",
+        "description": "Found in Egg Mines. Also common as food in houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6e/MW-icon-effect-Frost_Shield.jpg/16px-MW-icon-effect-Frost_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Shield",
+                "effectName": "Frost Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/fb/MW-icon-effect-Fortify_Health.jpg/16px-MW-icon-effect-Fortify_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Health",
+                "effectName": "Fortify Health"
+            }
+        ],
+        "value": "2",
+        "weight": "2.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Luminous Russula",
+        "id": "ingred_russula_01",
+        "image": "https://images.uesp.net/d/d3/MW-icon-ingredient-Luminous_Russula.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Luminous_Russula",
+        "description": "Found in the Bitter Coast region, also common in caves",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b0/MW-icon-effect-Water_Breathing.jpg/16px-MW-icon-effect-Water_Breathing.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Breathing",
+                "effectName": "Water Breathing"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d0/MW-icon-effect-Poison.jpg/16px-MW-icon-effect-Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Poison",
+                "effectName": "Poison"
+            }
+        ],
+        "value": "1",
+        "weight": "0.2",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Marshmerrow",
+        "id": "ingred_marshmerrow_01",
+        "image": "https://images.uesp.net/f/fe/MW-icon-ingredient-Marshmerrow.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Marshmerrow",
+        "description": "Found growing near water, most common in the Azura's Coast region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b9/MW-icon-effect-Detect_Enchantment.jpg/16px-MW-icon-effect-Detect_Enchantment.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Enchantment",
+                "effectName": "Detect Enchantment"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Moon Sugar",
+        "id": "ingred_moon_sugar_01",
+        "image": "https://images.uesp.net/c/c2/MW-icon-ingredient-Moon_Sugar.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Moon_Sugar",
+        "description": "Found in smuggler caves. Most vendors will not deal with you if you are carrying this illegal narcotic substance.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/50/MW-icon-effect-Dispel.jpg/16px-MW-icon-effect-Dispel.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Dispel",
+                "effectName": "Dispel"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "50",
+        "weight": "0.1",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Muck",
+        "id": "ingred_muck_01",
+        "image": "https://images.uesp.net/2/23/MW-icon-ingredient-Muck.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Muck",
+        "description": "Found in Muckspunge plants which grow near water in many regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b7/MW-icon-effect-Detect_Key.jpg/16px-MW-icon-effect-Detect_Key.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Key",
+                "effectName": "Detect Key"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Netch Leather",
+        "id": "ingred_netch_leather_01",
+        "image": "https://images.uesp.net/6/68/MW-icon-ingredient-Netch_Leather.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Netch_Leather",
+        "description": "Found by killing Netch",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4b/MW-icon-effect-Cure_Paralyzation.jpg/16px-MW-icon-effect-Cure_Paralyzation.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Paralyzation",
+                "effectName": "Cure Paralyzation"
+            }
+        ],
+        "value": "1",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Pearl",
+        "id": "ingred_pearl_01",
+        "image": "https://images.uesp.net/c/cd/MW-icon-ingredient-Pearl.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Pearl",
+        "description": "Found in kollops on the sea floor. Also found in barrels in Dwemer ruins.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/50/MW-icon-effect-Dispel.jpg/16px-MW-icon-effect-Dispel.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Dispel",
+                "effectName": "Dispel"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b0/MW-icon-effect-Water_Breathing.jpg/16px-MW-icon-effect-Water_Breathing.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Breathing",
+                "effectName": "Water Breathing"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+                "effectName": "Resist Common Disease"
+            }
+        ],
+        "value": "100",
+        "weight": "0.2",
+        "harvestProbability": "50"
+    },
+    {
+        "name": "Racer Plumes",
+        "id": "ingred_racer_plumes_01",
+        "image": "https://images.uesp.net/9/97/MW-icon-ingredient-Racer_Plumes.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Racer_Plumes",
+        "description": "Found by killing Cliff Racers",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Levitate.jpg/16px-MW-icon-effect-Levitate.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Levitate",
+                "effectName": "Levitate"
+            }
+        ],
+        "value": "20",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Rat Meat",
+        "id": "ingred_rat_meat_01",
+        "image": "https://images.uesp.net/3/38/MW-icon-ingredient-Rat_Meat.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Rat_Meat",
+        "description": "Found by killing Rats",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/ea/MW-icon-effect-Resist_Poison.jpg/16px-MW-icon-effect-Resist_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Poison",
+                "effectName": "Resist Poison"
+            }
+        ],
+        "value": "1",
+        "weight": "1.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Raw Ebony",
+        "id": "ingred_raw_ebony_01",
+        "image": "https://images.uesp.net/8/86/MW-icon-ingredient-Raw_Ebony.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Raw_Ebony",
+        "description": "Found in Ebony Mines. Usually a crime to take it.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6e/MW-icon-effect-Frost_Shield.jpg/16px-MW-icon-effect-Frost_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Shield",
+                "effectName": "Frost Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "200",
+        "weight": "10.0",
+        "harvestProbability": "50x8"
+    },
+    {
+        "name": "Raw Glass",
+        "id": "ingred_raw_glass_01",
+        "image": "https://images.uesp.net/b/b6/MW-icon-ingredient-Raw_Glass.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Raw_Glass",
+        "description": "Found in Glass Mines. Usually a crime to take it.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4e/MW-icon-effect-Fire_Shield.jpg/16px-MW-icon-effect-Fire_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fire_Shield",
+                "effectName": "Fire Shield"
+            }
+        ],
+        "value": "200",
+        "weight": "2.0",
+        "harvestProbability": "60x8"
+    },
+    {
+        "name": "Red Lichen",
+        "id": "ingred_red_lichen_01",
+        "image": "https://images.uesp.net/2/22/MW-icon-ingredient-Red_Lichen.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Red_Lichen",
+        "description": "Found growing on rocks, mostly in the Ashlands. Also for sale at vendors.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/0f/MW-icon-effect-Light.jpg/16px-MW-icon-effect-Light.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Light",
+                "effectName": "Light"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            }
+        ],
+        "value": "25",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Resin",
+        "id": "ingred_resin_01",
+        "image": "https://images.uesp.net/4/4f/MW-icon-ingredient-Resin.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Resin",
+        "description": "No reliable location. Occasionally for sale at vendors or found in random containers.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Burden.jpg/16px-MW-icon-effect-Burden.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Burden",
+                "effectName": "Burden"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a5/MW-icon-effect-Resist_Common_Disease.jpg/16px-MW-icon-effect-Resist_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Common_Disease",
+                "effectName": "Resist Common Disease"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Roobrush",
+        "id": "ingred_roobrush_01",
+        "image": "https://images.uesp.net/5/54/MW-icon-ingredient-Roobrush.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Roobrush",
+        "description": "Found growing in hilly regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Ruby",
+        "id": "ingred_ruby_01",
+        "image": "https://images.uesp.net/8/81/MW-icon-ingredient-Ruby.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Ruby",
+        "description": "Often found in barrels in Dwemer ruins",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f8/MW-icon-effect-Feather.jpg/16px-MW-icon-effect-Feather.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Feather",
+                "effectName": "Feather"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "200",
+        "weight": "0.2",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Saltrice",
+        "id": "ingred_saltrice_01",
+        "image": "https://images.uesp.net/8/8b/MW-icon-ingredient-Saltrice.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Saltrice",
+        "description": "Found growing near sea water, most common in the Azura's Coast region. Also a common food item in houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6c/MW-icon-effect-Fortify_Magicka.jpg/16px-MW-icon-effect-Fortify_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Magicka",
+                "effectName": "Fortify Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Scales",
+        "id": "ingred_scales_01",
+        "image": "https://images.uesp.net/f/fa/MW-icon-ingredient-Scales.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scales",
+        "description": "Found by killing Slaughterfish",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/da/MW-icon-effect-Water_Walking.jpg/16px-MW-icon-effect-Water_Walking.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Walking",
+                "effectName": "Water Walking"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f5/MW-icon-effect-Swift_Swim.jpg/16px-MW-icon-effect-Swift_Swim.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Swift_Swim",
+                "effectName": "Swift Swim"
+            }
+        ],
+        "value": "2",
+        "weight": "0.2",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Scamp Skin",
+        "id": "ingred_scamp_skin_01",
+        "image": "https://images.uesp.net/e/eb/MW-icon-ingredient-Scamp_Skin.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scamp_Skin",
+        "description": "Found by killing Scamps",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4b/MW-icon-effect-Cure_Paralyzation.jpg/16px-MW-icon-effect-Cure_Paralyzation.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Paralyzation",
+                "effectName": "Cure Paralyzation"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Scathecraw",
+        "id": "ingred_scathecraw_01",
+        "image": "https://images.uesp.net/d/db/MW-icon-ingredient-Scathecraw.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scathecraw",
+        "description": "Grows in dry, hilly regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "2",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Scrap Metal",
+        "id": "ingred_scrap_metal_01",
+        "image": "https://images.uesp.net/7/73/MW-icon-ingredient-Scrap_Metal.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scrap_Metal",
+        "description": "Found by killing Dwemer constructs. Also common in barrels and on shelves in Dwemer ruins.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/1/11/MW-icon-effect-Drain_Health.jpg/16px-MW-icon-effect-Drain_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Health",
+                "effectName": "Drain Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2c/MW-icon-effect-Lightning_Shield.jpg/16px-MW-icon-effect-Lightning_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Lightning_Shield",
+                "effectName": "Lightning Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Resist_Shock.jpg/16px-MW-icon-effect-Resist_Shock.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Resist_Shock",
+                "effectName": "Resist Shock"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "20",
+        "weight": "10.0",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Scrib Jelly",
+        "id": "ingred_scrib_jelly_01",
+        "image": "https://images.uesp.net/7/75/MW-icon-ingredient-Scrib_Jelly.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scrib_Jelly",
+        "description": "Found by killing Scribs",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/72/MW-icon-effect-Cure_Poison.jpg/16px-MW-icon-effect-Cure_Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Poison",
+                "effectName": "Cure Poison"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a3/MW-icon-effect-Cure_Blight_Disease.jpg/16px-MW-icon-effect-Cure_Blight_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Blight_Disease",
+                "effectName": "Cure Blight Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Scrib Jerky",
+        "id": "ingred_scrib_jerky_01",
+        "image": "https://images.uesp.net/4/41/MW-icon-ingredient-Scrib_Jerky.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scrib_Jerky",
+        "description": "Found as a food item in houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/03/MW-icon-effect-Fortify_Fatigue.jpg/16px-MW-icon-effect-Fortify_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Fatigue",
+                "effectName": "Fortify Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/54/MW-icon-effect-Burden.jpg/16px-MW-icon-effect-Burden.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Burden",
+                "effectName": "Burden"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f5/MW-icon-effect-Swift_Swim.jpg/16px-MW-icon-effect-Swift_Swim.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Swift_Swim",
+                "effectName": "Swift Swim"
+            }
+        ],
+        "value": "5",
+        "weight": "0.2",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Scuttle",
+        "id": "ingred_scuttle_01",
+        "image": "https://images.uesp.net/8/88/MW-icon-ingredient-Scuttle.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Scuttle",
+        "description": "Found as a food item in houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/03/MW-icon-effect-Fortify_Fatigue.jpg/16px-MW-icon-effect-Fortify_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Fatigue",
+                "effectName": "Fortify Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/f8/MW-icon-effect-Feather.jpg/16px-MW-icon-effect-Feather.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Feather",
+                "effectName": "Feather"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/7/74/MW-icon-effect-Telekinesis.jpg/16px-MW-icon-effect-Telekinesis.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Telekinesis",
+                "effectName": "Telekinesis"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Shalk Resin",
+        "id": "ingred_shalk_resin_01",
+        "image": "https://images.uesp.net/e/e5/MW-icon-ingredient-Shalk_Resin.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Shalk_Resin",
+        "description": "Found by killing Shalks",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/fb/MW-icon-effect-Fortify_Health.jpg/16px-MW-icon-effect-Fortify_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Health",
+                "effectName": "Fortify Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            }
+        ],
+        "value": "50",
+        "weight": "0.1",
+        "harvestProbability": "100/40"
+    },
+    {
+        "name": "Sload Soap",
+        "id": "ingred_sload_soap_01",
+        "image": "https://images.uesp.net/a/aa/MW-icon-ingredient-Sload_Soap.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Sload_Soap",
+        "description": "Rare. Mostly found for sale at vendors or in random containers.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4e/MW-icon-effect-Fire_Shield.jpg/16px-MW-icon-effect-Fire_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fire_Shield",
+                "effectName": "Fire Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            }
+        ],
+        "value": "50",
+        "weight": "0.1",
+        "harvestProbability": "N/A"
+    },
+    {
+        "name": "Small Kwama Egg",
+        "id": "food_kwama_egg_01",
+        "image": "https://images.uesp.net/7/73/MW-icon-ingredient-Kwama_Egg.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Small_Kwama_Egg",
+        "description": "Found in Egg Mines. Also common food item in houses.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/2/2f/MW-icon-effect-Restore_Fatigue.jpg/16px-MW-icon-effect-Restore_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Fatigue",
+                "effectName": "Restore Fatigue"
+            }
+        ],
+        "value": "1",
+        "weight": "0.5",
+        "harvestProbability": "70*"
+    },
+    {
+        "name": "Spore Pod",
+        "id": "ingred_bc_spore_pod",
+        "image": "https://images.uesp.net/a/a4/MW-icon-ingredient-Spore_Pod.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Spore_Pod",
+        "description": "Found on Slough Ferns growing in the Bitter Coast region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/b/b7/MW-icon-effect-Detect_Key.jpg/16px-MW-icon-effect-Detect_Key.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Detect_Key",
+                "effectName": "Detect Key"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "100"
+    },
+    {
+        "name": "Stoneflower Petals",
+        "id": "ingred_stoneflower_petals_01",
+        "image": "https://images.uesp.net/1/17/MW-icon-ingredient-Stoneflower_Petals.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Stoneflower_Petals",
+        "description": "These flowers are common in the West Gash and Ascadian Isles regions.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6c/MW-icon-effect-Fortify_Magicka.jpg/16px-MW-icon-effect-Fortify_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Magicka",
+                "effectName": "Fortify Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Trama Root",
+        "id": "ingred_trama_root_01",
+        "image": "https://images.uesp.net/5/53/MW-icon-ingredient-Trama_Root.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Trama_Root",
+        "description": "Found growing in dry, hilly regions",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
+                "effectName": "Restore Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/0/08/MW-icon-effect-Levitate.jpg/16px-MW-icon-effect-Levitate.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Levitate",
+                "effectName": "Levitate"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Magicka",
+                "effectName": "Drain Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "80"
+    },
+    {
+        "name": "Vampire Dust",
+        "id": "ingred_vampire_dust_01",
+        "image": "https://images.uesp.net/8/80/MW-icon-ingredient-Vampire_Dust.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Vampire_Dust",
+        "description": "Found by killing Vampires",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/f/fb/MW-icon-effect-Fortify_Health.jpg/16px-MW-icon-effect-Fortify_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Health",
+                "effectName": "Fortify Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/81/MW-icon-effect-Spell_Absorption.jpg/16px-MW-icon-effect-Spell_Absorption.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Spell_Absorption",
+                "effectName": "Spell Absorption"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d7/MW-icon-effect-Vampirism.jpg/16px-MW-icon-effect-Vampirism.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Vampirism",
+                "effectName": "Vampirism"
+            }
+        ],
+        "value": "500",
+        "weight": "0.1",
+        "harvestProbability": "100"
+    },
+    {
+        "name": "Violet Coprinus",
+        "id": "ingred_coprinus_01",
+        "image": "https://images.uesp.net/8/8e/MW-icon-ingredient-Violet_Coprinus.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Violet_Coprinus",
+        "description": "These mushrooms grow throughout the Bitter Coast region, and are also common in caves.",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/da/MW-icon-effect-Water_Walking.jpg/16px-MW-icon-effect-Water_Walking.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Water_Walking",
+                "effectName": "Water Walking"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/c/c4/MW-icon-effect-Drain_Fatigue.jpg/16px-MW-icon-effect-Drain_Fatigue.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Fatigue",
+                "effectName": "Drain Fatigue"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d0/MW-icon-effect-Poison.jpg/16px-MW-icon-effect-Poison.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Poison",
+                "effectName": "Poison"
+            }
+        ],
+        "value": "1",
+        "weight": "0.5",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Void Salts",
+        "id": "ingred_void_salts_01",
+        "image": "https://images.uesp.net/0/00/MW-icon-ingredient-Void_Salts.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Void_Salts",
+        "description": "Found by killing Storm Atronachs or Winged Twilights",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/d/d8/MW-icon-effect-Restore_Magicka.jpg/16px-MW-icon-effect-Restore_Magicka.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Magicka",
+                "effectName": "Restore Magicka"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/81/MW-icon-effect-Spell_Absorption.jpg/16px-MW-icon-effect-Spell_Absorption.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Spell_Absorption",
+                "effectName": "Spell Absorption"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            }
+        ],
+        "value": "100",
+        "weight": "0.1",
+        "harvestProbability": "60"
+    },
+    {
+        "name": "Wickwheat",
+        "id": "ingred_wickwheat_01",
+        "image": "https://images.uesp.net/f/fc/MW-icon-ingredient-Wickwheat.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Wickwheat",
+        "description": "Found growing in the Grazelands region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/8/82/MW-icon-effect-Restore_Health.jpg/16px-MW-icon-effect-Restore_Health.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Health",
+                "effectName": "Restore Health"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Attribute",
+                "effectName": "Fortify Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/48/MW-icon-effect-Paralyze.jpg/16px-MW-icon-effect-Paralyze.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Paralyze",
+                "effectName": "Paralyze"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/a/a4/MW-icon-effect-Damage_Attribute.jpg/16px-MW-icon-effect-Damage_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Damage_Attribute",
+                "effectName": "Damage Attribute"
+            }
+        ],
+        "value": "1",
+        "weight": "0.1",
+        "harvestProbability": "90"
+    },
+    {
+        "name": "Willow Anther",
+        "id": "ingred_willow_anther_01",
+        "image": "https://images.uesp.net/c/c9/MW-icon-ingredient-Willow_Anther.png",
+        "url": "https://en.uesp.net/wiki/Morrowind:Willow_Anther",
+        "description": "Most common in the Ascadian Isles region",
+        "effects": [
+            {
+                "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
+                "effectName": "Drain Attribute"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/6/6e/MW-icon-effect-Frost_Shield.jpg/16px-MW-icon-effect-Frost_Shield.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Frost_Shield",
+                "effectName": "Frost Shield"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/e/e5/MW-icon-effect-Cure_Common_Disease.jpg/16px-MW-icon-effect-Cure_Common_Disease.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Common_Disease",
+                "effectName": "Cure Common Disease"
+            },
+            {
+                "imageURL": "https://images.uesp.net/thumb/4/4b/MW-icon-effect-Cure_Paralyzation.jpg/16px-MW-icon-effect-Cure_Paralyzation.jpg",
+                "effectURL": "https://en.uesp.net/wiki/Morrowind:Cure_Paralyzation",
+                "effectName": "Cure Paralyzation"
+            }
+        ],
+        "value": "10",
+        "weight": "0.1",
+        "harvestProbability": "85"
+    }
+]
