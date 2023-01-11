@@ -201,7 +201,7 @@
       {
         "imageURL": "https://images.uesp.net/thumb/e/ee/MW-icon-effect-Drain_Skill.jpg/16px-MW-icon-effect-Drain_Skill.jpg",
         "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Skill",
-        "effectName": "Drain Skill"
+        "effectName": "<i>Drain Alteration</i>"
       },
       {
         "imageURL": "https://images.uesp.net/thumb/e/e6/MW-icon-effect-Fortify_Attribute.jpg/16px-MW-icon-effect-Fortify_Attribute.jpg",
@@ -211,7 +211,7 @@
       {
         "imageURL": "https://images.uesp.net/thumb/0/02/MW-icon-effect-Fortify_Maximum_Magicka.jpg/16px-MW-icon-effect-Fortify_Maximum_Magicka.jpg",
         "effectURL": "https://en.uesp.net/wiki/Morrowind:Fortify_Maximum_Magicka",
-        "effectName": "Fortify Maximum Magicka"
+        "effectName": "<i>Fortify Maximum Magicka</i>"
       },
       {
         "imageURL": "https://images.uesp.net/thumb/9/97/MW-icon-effect-Detect_Animal.jpg/16px-MW-icon-effect-Detect_Animal.jpg",
@@ -425,7 +425,7 @@
       {
         "imageURL": "https://images.uesp.net/thumb/8/85/MW-icon-effect-Restore_Attribute.jpg/16px-MW-icon-effect-Restore_Attribute.jpg",
         "effectURL": "https://en.uesp.net/wiki/Morrowind:Restore_Attribute",
-        "effectName": "Restore Attribute"
+        "effectName": "Restore Intelligence"
       },
       {
         "imageURL": "https://images.uesp.net/thumb/8/80/MW-icon-effect-Invisibility.jpg/16px-MW-icon-effect-Invisibility.jpg",
@@ -435,7 +435,7 @@
       {
         "imageURL": "https://images.uesp.net/thumb/5/57/MW-icon-effect-Drain_Attribute.jpg/16px-MW-icon-effect-Drain_Attribute.jpg",
         "effectURL": "https://en.uesp.net/wiki/Morrowind:Drain_Attribute",
-        "effectName": "Drain Attribute"
+        "effectName": "Drain Endurance"
       },
       {
         "imageURL": "https://images.uesp.net/thumb/5/55/MW-icon-effect-Drain_Magicka.jpg/16px-MW-icon-effect-Drain_Magicka.jpg",

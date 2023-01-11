@@ -67,7 +67,7 @@ function getEffectURL(effect) {
 }
 
 function getEffectTitle(effect) {
-    return effect.childNodes[1].title.replace("Morrowind:", "")
+    return effect.childNodes[1].childNodes[0].innerHTML
 }
 
 function getEffectImage(effect) {
@@ -75,11 +75,21 @@ function getEffectImage(effect) {
 }
 
 function getIngredientTitle(row) {
-    return row.childNodes[1].childNodes[1].childNodes[3].title.replace("Morrowind:", "")
+    let titleNode = row.childNodes[1].childNodes[1].childNodes[3].childNodes[0].title
+
+    if (titleNode.includes("Tribunal:")) {
+        titleNode = titleNode.replace("Tribunal:", "")
+    } else if (titleNode.includes("Bloodmoon:")) {
+        titleNode = titleNode.replace("Bloodmoon:", "")
+    } else {
+        titleNode = titleNode.replace("Morrowind:", "")
+    }
+        
+    return titleNode
 }
 
 function getIngredientURL(row) {
-    return row.childNodes[1].childNodes[1].childNodes[3].href
+    return row.childNodes[1].childNodes[1].childNodes[3].childNodes[0].href
 }
 
 function getIngredientImage(row) {
